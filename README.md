@@ -82,18 +82,11 @@
     <li>Abre un Pull Request en GitHub.</li>
   </ol>
 
-  <h2>Contacto</h2>
-  <ul>
-    <li><strong>Teléfono</strong>: +52 81 26 36 8002, +52 81 26 36 8003</li>
-    <li><strong>Correo electrónico</strong>: Footballmx@gmail.com, FootballmxFootball@gmail.com</li>
-    <li><strong>Dirección</strong>: Santa Mónica, calle San Vicente #1266, Nuevo León, México</li>
-  </ul>
-
   <h2>Redes Sociales</h2>
   <ul>
     <li>Facebook: www.facebook.com/Futbol/?locale2=es_LA</li>
     <li>Instagram: www.instagram.com/miseleccionmx/?hl=es-la</li>
-    <li>Twitter: twitter.com/FT_Total?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</li>
+    <li>Twitter: www.twitter.com/FT_Total?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</li>
   </ul>
 
   <p>¡Gracias por visitar "Football Club"!</p>
